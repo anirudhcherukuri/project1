@@ -1,0 +1,11 @@
+artifact_location: file:///D:/mlfow/mlflow/mlruns/917804837129378714/models/m-1e5af2181f4240b680b9792b0c6c871d/artifacts
+creation_timestamp: 1789714749244
+experiment_id: '917804837129378714'
+last_updated_timestamp: 1789714749244
+lifecycle_stage: active
+model_id: m-1e5af2181f4240b680b9792b0c6c871d
+model_type: null
+name: iris_random_forest
+source_run_id: c483819f70534d5da6970eff237f282c
+status: 1
+status_message: null

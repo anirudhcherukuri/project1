@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/mlfow/mlflow/mlruns/917804837129378714/3e1e9a0b02684676a91e60618d97c4c6/artifacts
+end_time: 1789714603491
+entry_point_name: ''
+experiment_id: '917804837129378714'
+lifecycle_stage: active
+run_id: 3e1e9a0b02684676a91e60618d97c4c6
+run_name: monumental-perch-308
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1789714592627
+status: 3
+tags: []
+user_id: vamsh

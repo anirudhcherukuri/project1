@@ -1,0 +1,9 @@
+artifact_location: file:///D:/mlfow/mlflow/mlruns/917804837129378714
+creation_time: 1789714592412
+effective_trace_archival_retention: null
+experiment_id: '917804837129378714'
+last_update_time: 1789714592412
+lifecycle_stage: active
+name: Iris-Classification
+trace_location: null
+workspace: default

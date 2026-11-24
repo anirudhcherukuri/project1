@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/mlfow/mlflow/mlruns/917804837129378714/c483819f70534d5da6970eff237f282c/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '917804837129378714'
+lifecycle_stage: active
+run_id: c483819f70534d5da6970eff237f282c
+run_name: thundering-shark-279
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1789714749088
+status: 1
+tags: []
+user_id: vamsh

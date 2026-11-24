@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/mlfow/mlflow/mlruns/917804837129378714/f0400c7ff00d44d3878430491dedf58e/artifacts
+end_time: 1789714787864
+entry_point_name: ''
+experiment_id: '917804837129378714'
+lifecycle_stage: active
+run_id: f0400c7ff00d44d3878430491dedf58e
+run_name: hilarious-mole-947
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1789714777618
+status: 3
+tags: []
+user_id: vamsh
